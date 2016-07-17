@@ -1,3 +1,16 @@
+## Files in Repo
+
+* README.md : instructions about assignment and loading file
+* plot1.R : code file for creating plot1 for assignment.
+* plot1.png : plot1 png file generate through code.
+* plot2.R : code file for creating plot2 for assignment.
+* plot2.png : plot2 png file generate through code.
+* plot3.R : code file for creating plot3 for assignment.
+* plot3.png : plot3 png file generate through code.
+* plot4.R : code file for creating plot4 for assignment.
+* plot4.png : plot4 png file generate through code.
+
+
 ## Introduction
 
 This assignment uses data from
@@ -35,9 +48,12 @@ web site</a>:
 
 ## Loading the data
 
+### Prerequisite for loading data
 
-
-
+* dplyr package should be installed.
+* lubridate package should be installed.
+* unzip exdata_data_household_power_consumption and keep the folder in working directory.
+* In case file location is changed modify File path variable in code files.
 
 When loading the dataset into R, please consider the following:
 
